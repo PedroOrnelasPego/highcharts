@@ -5,6 +5,14 @@
   margin: 1em auto;
 }
 
+.highcharts-figure{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+
 .highcharts-data-table table {
   font-family: Verdana, sans-serif;
   border-collapse: collapse;
